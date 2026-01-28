@@ -1,19 +1,13 @@
 export default function HomePage() {
   return (
-    <section className="hero">
-      <h1>College Football, NFL, and Draft Notes</h1>
-      <p>
-        Weekly analysis, film notes, and draft coverage — all focused on football.
-      </p>
+    <section className="home">
+      <h1>Henry Eakes</h1>
+      <p className="subtitle">College & NFL Football</p>
 
-      <div className="buttons">
-        <a className="primary" href="/articles">
-          Read Articles
-        </a>
-        <a className="secondary" href="/big-board">
-          Draft Big Board
-        </a>
-      </div>
+      <h2>NFL Draft</h2>
+      <p>
+        Draft analysis, big board, and player breakdowns coming soon.
+      </p>
     </section>
   );
 }
