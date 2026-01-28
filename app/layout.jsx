@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Henry Eakes",
-  description: "College & NFL Football",
+  description: "College Football, NFL, and NFL Draft writing by Henry Eakes",
 };
 
 export default function RootLayout({ children }) {
@@ -12,22 +12,24 @@ export default function RootLayout({ children }) {
         <div className="container">
           <header className="header">
             <div className="brand">
-              <h1>Henry Eakes</h1>
+              <h1><a href="/">Henry Eakes</a></h1>
               <p>College Football · NFL · NFL Draft</p>
             </div>
 
             <nav className="nav">
-              <a className="pill" href="/">Home</a>
-              <a className="pill" href="/#college">College</a>
-              <a className="pill" href="/#nfl">NFL</a>
-              <a className="pill" href="/#draft">Draft</a>
+              <a className="pill" href="/articles">Articles</a>
+              <a className="pill" href="/tag/college">College</a>
+              <a className="pill" href="/tag/nfl">NFL</a>
+              <a className="pill" href="/tag/draft">Draft</a>
+              <a className="pill" href="/draft/big-board">Big Board</a>
             </nav>
           </header>
 
           {children}
 
           <footer className="footer">
-            © {new Date().getFullYear()} Henry Eakes · henry.eakes@gmail.com
+            © {new Date().getFullYear()} Henry Eakes ·{" "}
+            <a href="mailto:henry.eakes@gmail.com">henry.eakes@gmail.com</a>
           </footer>
         </div>
       </body>
