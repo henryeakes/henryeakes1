@@ -12,7 +12,6 @@ function IconInstagram() {
     </svg>
   );
 }
-
 function IconX() {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -25,7 +24,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        {/* Blanca-inspired top strip */}
         <div className="topStrip">
           <div className="topStripInner">
             <div className="topLeft">
@@ -47,7 +45,6 @@ export default function RootLayout({ children }) {
               >
                 <IconInstagram />
               </a>
-
               <a
                 className="iconBtn"
                 href="https://x.com/henryeakesports"
@@ -63,7 +60,6 @@ export default function RootLayout({ children }) {
         </div>
 
         <div className="container">
-          {/* Blanca-inspired centered brand */}
           <header className="siteHeader">
             <a href="/" className="brandLogoWrap" aria-label="Home">
               <img className="brandLogo" src="/logo.png" alt="HenryEakes.com logo" />
@@ -71,7 +67,6 @@ export default function RootLayout({ children }) {
 
             <div className="brandSub">
               <div className="brandTag">PERSONAL FOOTBALL BLOG</div>
-
               <nav className="mainNav" aria-label="Primary">
                 <a href="/">HOME</a>
                 <a href="/articles">ARTICLES</a>
