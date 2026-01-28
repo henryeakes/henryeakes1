@@ -1,7 +1,7 @@
 import { getAllPostsMeta } from "../lib/posts";
 
 function pretty(tag) {
-  if (tag === "college") return "College";
+  if (tag === "college") return "College Football";
   if (tag === "nfl") return "NFL";
   if (tag === "draft") return "Draft";
   return tag;
