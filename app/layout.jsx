@@ -12,13 +12,15 @@ export default function RootLayout({ children }) {
         <div className="container">
           <header className="header">
             <div className="brand">
-              <h1><a href="/">Henry Eakes</a></h1>
+              <h1>
+                <a href="/">Henry Eakes</a>
+              </h1>
               <p>College Football · NFL · NFL Draft</p>
             </div>
 
             <nav className="nav">
               <a className="pill" href="/articles">Articles</a>
-              <a className="pill" href="/tag/college">College</a>
+              <a className="pill" href="/tag/college">College Football</a>
               <a className="pill" href="/tag/nfl">NFL</a>
               <a className="pill" href="/tag/draft">Draft</a>
               <a className="pill" href="/draft/big-board">Big Board</a>
