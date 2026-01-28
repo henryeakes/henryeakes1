@@ -1,15 +1,15 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Henry Eakes | Football Writing",
-  description: "Informed football coverage: College Football, NFL, and the Draft",
+  title: "Henry Eakes",
+  description: "Informed Football Coverage",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        {/* Top bar */}
+        {/* Top Bar */}
         <div className="top-bar">
           <span>FOOTBALL WRITING · henryeakessports@gmail.com</span>
           <div className="socials">
@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
               target="_blank"
               aria-label="Instagram"
             >
-              IG
+              Instagram
             </a>
             <a
               href="https://x.com/henryeakesports"
@@ -33,11 +33,11 @@ export default function RootLayout({ children }) {
         {/* Header */}
         <header className="site-header">
           <img
-            src="/henryeakes-logo.png"
+            src="/henryeakes logo.png"
             alt="HenryEakes.com logo"
             className="logo"
           />
-          <p className="subtitle">Informed Football Coverage</p>
+          <p className="tagline">Informed Football Coverage</p>
 
           <nav className="nav">
             <a href="/">Home</a>
@@ -52,8 +52,7 @@ export default function RootLayout({ children }) {
         <main>{children}</main>
 
         <footer className="footer">
-          © {new Date().getFullYear()} Henry Eakes ·
-          henryeakessports@gmail.com
+          © 2026 Henry Eakes · henryeakessports@gmail.com
         </footer>
       </body>
     </html>
