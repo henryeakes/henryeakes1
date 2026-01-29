@@ -12,6 +12,7 @@ function IconInstagram() {
     </svg>
   );
 }
+
 function IconX() {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -24,12 +25,16 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
+        {/* Top strip */}
         <div className="topStrip">
           <div className="topStripInner">
             <div className="topLeft">
               <span className="topSmall">FOOTBALL WRITING</span>
               <span className="dot">•</span>
-              <a className="topLink" href="mailto:henryeakessports@gmail.com">
+              <a
+                className="topLink"
+                href="mailto:henryeakessports@gmail.com"
+              >
                 henryeakessports@gmail.com
               </a>
             </div>
@@ -45,12 +50,13 @@ export default function RootLayout({ children }) {
               >
                 <IconInstagram />
               </a>
+
               <a
                 className="iconBtn"
-                href="https://x.com/henryeakessports"
+                href="https://x.com/henryeakesports"
                 target="_blank"
                 rel="noreferrer"
-                aria-label="X"
+                aria-label="X (Twitter)"
                 title="X"
               >
                 <IconX />
@@ -59,14 +65,22 @@ export default function RootLayout({ children }) {
           </div>
         </div>
 
+        {/* Main layout */}
         <div className="container">
           <header className="siteHeader">
             <a href="/" className="brandLogoWrap" aria-label="Home">
-              <img className="brandLogo" src="/logo.png" alt="HenryEakes.com logo" />
+              {/* LOGO — must exist at /public/logo.png */}
+              <img
+                src="/logo.png"
+                alt="Henry Eakes logo"
+                className="brandLogo"
+              />
             </a>
 
             <div className="brandSub">
-              <div className="brandTag">INFORMED FOOTBALL COVERAGE</div>
+              <div className="brandTag">
+                INFORMED FOOTBALL COVERAGE
+              </div>
 
               <nav className="mainNav" aria-label="Primary">
                 <a href="/">HOME</a>
@@ -83,7 +97,9 @@ export default function RootLayout({ children }) {
 
           <footer className="footer">
             © {new Date().getFullYear()} Henry Eakes ·{" "}
-            <a href="mailto:henryeakessports@gmail.com">henryeakessports@gmail.com</a>
+            <a href="mailto:henryeakessports@gmail.com">
+              henryeakessports@gmail.com
+            </a>
           </footer>
         </div>
       </body>
