@@ -2,6 +2,7 @@
 title: "Titans 7-Round Mock Draft After Trade Down With Rams"
 date: "2026-03-19"
 excerpt: "If the Rams move up for Jeremiyah Love, the Titans could reshape their roster with a smart trade down."
+coverImage: "/titans logo.png"
 ---In recent days, Daniel Jeremiah of NFL Network suggested the Los Angeles Rams may try and make another aggressive move up in the 2026 NFL Draft to select Jeremiyah Love, the uber-talented tailback from Notre Dame. Love is a name that has been linked to the Tennessee Titans ever since he posted a stellar 4.36 40-yard dash and weighed in at a surprising 212 pounds at the NFL Combine. From the Rams’ perspective, this would be an all-in move to try and chase a final Super Bowl before their Hall of Fame quarterback Matthew Stafford retires. If you’re the Tennessee Titans, a move down the draft board would likely benefit the overall structure of the newly rebuilt roster. With that, I put together a predictive seven-round mock draft for the Tennessee Titans if they were to send their fourth overall pick to Los Angeles so the NFC runners-up could nab the best running back prospect since Bijan Robinson.
 
 The trade details: The Rams will pay a premium coming up to 4 from their 14th pick, acquired in the eventual James Pearce selection in last year’s draft for the Falcons.
