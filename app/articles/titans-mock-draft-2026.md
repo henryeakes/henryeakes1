@@ -13,7 +13,7 @@ With that, I put together a predictive seven round mock draft for the Tennessee 
 
  The trade details
 
-The Rams will pay a premium coming up to 4 from their 14th pick acquired in the eventual James Pearce selection in last years draft for the Falcons.
+The Rams will pay a premium coming up to 4 from their 13th pick acquired in the eventual James Pearce selection in last years draft for the Falcons.
 
 Rams receive:  
 Round 1, Pick 4 (Jeremiyah Love), 2027 5th round selection
@@ -21,7 +21,7 @@ Round 1, Pick 4 (Jeremiyah Love), 2027 5th round selection
 Titans receive:  
 Round 1, Pick 13, Round 2, Pick 61, 2027 2nd round selection via LAR, 2027 4th Round selection via LAR
 
-Now to the selections I predict the Titans to make in 2026 after their move ten spots down the draft board.
+Now to the selections I predict the Titans to make in 2026 after their move nine spots down the draft board.
 
  Round 1, Pick 13: Olaivavega Ioane, G, Penn State
 
