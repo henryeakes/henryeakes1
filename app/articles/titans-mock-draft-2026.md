@@ -5,121 +5,110 @@ excerpt: "If the Rams move up for Jeremiyah Love, the Titans could reshape their
 coverImage: "/titans logo.png"
 ---
 
-In recent days, Daniel Jeremiah of NFL Network suggested the Los Angeles Rams may try and make another aggressive move up in the 2026 NFL Draft to select Jeremiyah Love, the uber-talented tailback from Notre Dame. Love is a name that has been linked to the Tennessee Titans ever since he posted a stellar 4.36 40-yard dash and weighed in at a surprising 212 pounds at the NFL Combine.
+In recent days, Daniel Jeremiah of NFL Network suggested the Los Angeles Rams may try and make another aggressive move up in the 2026 NFL Draft to select Jeremiyah Love, the uber-talented tailback from Notre Dame. Love is a name that has been linked to the Tennessee Titans ever since Love posted a stellar 4.36 40 yard dash and weighed in at a surprising 212 pounds at the NFL Combine.
 
-From the Rams’ perspective, this would be an all-in move to try and chase a final Super Bowl before their Hall of Fame quarterback Matthew Stafford retires. If you’re the Tennessee Titans, a move down the draft board would likely benefit the overall structure of the newly rebuilt roster.
+From the Rams perspective, this would be an all-in move to try and chase a final Super Bowl before their Hall of Fame quarterback Matthew Stafford retires. If you’re the Tennessee Titans, a move down the draft board would likely benefit the overall structure of the newly rebuilt roster.
 
-With that, I put together a predictive seven-round mock draft for the Tennessee Titans if they were to send their fourth overall pick to Los Angeles.
+With that, I put together a predictive seven round mock draft for the Tennessee Titans if they were to send their fourth overall pick to Los Angeles so the NFC runners up could nab the best running back prospect since Bijan Robinson.
 
----
+ The trade details
 
-## Trade Details
+The Rams will pay a premium coming up to 4 from their 14th pick acquired in the eventual James Pearce selection in last years draft for the Falcons.
 
-The Rams will pay a premium to move up from pick 14.
+Rams receive:  
+Round 1, Pick 4 (Jeremiyah Love), 2027 5th round selection
 
-**Rams receive:**
-- Round 1, Pick 4 (Jeremiyah Love)  
-- 2027 5th-round pick  
+Titans receive:  
+Round 1, Pick 13, Round 2, Pick 61, 2027 2nd round selection via LAR, 2027 4th Round selection via LAR
 
-**Titans receive:**
-- Round 1, Pick 13  
-- Round 2, Pick 35  
-- Round 2, Pick 61  
-- 2027 2nd-round pick (via LAR)  
-- 2027 4th-round pick (via LAR)  
+Now to the selections I predict the Titans to make in 2026 after their move ten spots down the draft board.
 
----
+ Round 1, Pick 13: Olaivavega Ioane, G, Penn State
 
-## Round 1, Pick 13: Olaivavega Ioane, G, Penn State
+This will come as a shock to some of the Titans faithful, however Vega Ioane is a top 10 talent in this draft. The pass protection jumps off the tape with Ioane along with staggering statistics to back up the tremendous tape. No sacks allowed in the last two seasons, zero QB hits allowed in 2025 coupled with only four pressures total allowed all season.Ioane demonstrates a knack for pulling and shows impressive foot speed on his pull reps.
 
-This will come as a shock to some of the Titans faithful; however, Vega Ioane is a top-10 talent in this draft.
+There’s room for improvement in the run game for Ioane, but the talent is obvious, the need is there, and the prospect is worth the pick in this range. Ioane slides over to right guard in this scenario, giving the Titans arguably a top 5 guard duo in the league from the day Ioane walks in the building.
 
-The pass protection jumps off the tape with Ioane, along with staggering statistics to back up the tremendous film. No sacks allowed in the last two seasons, zero QB hits allowed in 2025, and only four total pressures allowed all season.
+New Titans offensive line coach Carmen Bricillo has proven to be high level developer in his time with the Giants and Raiders. Giving Bricillo this high level ammunition to work with along the offensive line would be extremely beneficial to Brian Daboll’s offense, and the development of franchise quarterback Cam Ward.
 
-Ioane demonstrates a knack for pulling and shows impressive foot speed on his pull reps. There’s room for improvement in the run game, but the talent is obvious, the need is there, and the prospect is worth the pick in this range.
+The Titans signed veteran Cordell Volson in free agency, they don’t seem to be in a rush to resign Kevin Zeitler, so addressing the interior of the offensive line should be a top priority for General Manager MIke Borgonzi in April’s draft.
 
-Ioane slides over to right guard in this scenario, giving the Titans arguably a top-five guard duo in the league from the day he walks in the building.
+ Round 2, Pick 35: Germie Bernard, WR, Alabama
 
----
+I’ve been a Germie Bernard fan since he was the 4th receiving option at Washington during their improbable run to the National Championship in 2024. There’s a quote you hear a lot when you listen to scouts and analysts talk about making draft picks, and Germie Bernard is the embodiment of that quote which is simply “draft good football players”. Germie Bernard is a really good football player.
 
-## Round 2, Pick 35: Germie Bernard, WR, Alabama
+Bernard totaled just four drops in four years of college football never dropping more than two passes in a single season. The Alabama product also fits into Brian Daboll’s offense well as a move player, demonstrating positive tape both as an inside receiver and an outside receiver.
 
-I’ve been a Germie Bernard fan since he was the fourth receiving option at Washington during their improbable run to the National Championship in 2024.
+What sticks out most to me with Bernard is his ability after catching the football. Boasting a near 24% missed tackle rate, Bernard is fantastic with the football in his hands. When watching Germie Bernard its also very apparent how poised of a player he is, with some of the best body control and hands in the class, a top 35 pick seems correct for his services.
 
-There’s a quote you hear a lot when you listen to scouts and analysts talk about making draft picks — Bernard is the embodiment of that quote: just good football player.
+The downside with Bernard is the lack of production vertically down the football field However, Bernard, I believe has the speed to develop that into a league average deep threat. This is a player I really believe in, and think would be a great fit alongside Robinson, Ridley, Ayomanor and Dike solidifying the Titans starting receivers in 2026.
 
-Bernard totaled just four drops in four years of college football, never dropping more than two passes in a single season. The Alabama product also fits into Brian Daboll’s offense well as a move player, demonstrating positive tape both as an inside receiver and an outside receiver.
+ Round 2, Pick 61: Derrick Moore, EDGE, Michigan
 
-What sticks out most to me with Bernard is his ability after catching the football. Boasting a near 24% missed tackle rate, Bernard is fantastic with the ball in his hands. When watching him, it’s also very apparent how poised he is, with some of the best body control and hands in the class.
+Derrick Moore is a fun watch. He is also one of the better scheme fits of any player in the class for the Titans. Moore is a 3 time all Big-10 selection, totaling 80 pressures and 14 sacks in his final two seasons in Ann Arbor.
 
-A top-35 pick seems correct for his services.
+The pass rusher has the prototypical size standing 6’3 and weighing in at 255lbs. There is no arm length concern with Moore as he has 33 ⅜ inch arms. Moore uses his length to his advantage, as gets to the outside on tackles and converts speed to power with an impressive bull rush that collapses pockets quickly.
 
----
+Moore doesn’t possess elite bend off the edge, however he still manages to find sacks. As for Moore’s fit in Robert Saleh’s defense, he would be a fantastic wide 9 rush end. Think Derrick Hall for Seattle.
 
-## Round 2, Pick 61: Derrick Moore, EDGE, Michigan
+The Titans have an edge spot open, many think they’ll address it earlier in the draft, however if they can nab an extra second round pick I think Moore will be available at the end of the round. Once again solidifying another position group, the defensive front.
 
-Derrick Moore is a fun watch and one of the better scheme fits of any player in the class for the Titans.
+Round 3, Pick 66: Sam Hecht, C, Kansas State
 
-Moore is a three-time All-Big Ten selection, totaling 80 pressures and 14 sacks in his final two seasons in Ann Arbor. The pass rusher has prototypical size, standing 6’3” and weighing in at 255 pounds.
+Double dipping on offensive line is really never a bad idea, especially in a weaker draft class. Finding two starters on the offensive line would be fantastic for the Titans. Sam Hecht has NFL starter written all over him.
 
-There is no arm-length concern with Moore, as he has 33 ⅜-inch arms. He uses his length to his advantage as he gets to the outside on tackles and converts speed to power with an impressive bull rush that collapses pockets quickly.
+Hecht has been stout in pass protection, not allowing a sack over the last two seasons. He showed out at the senior bowl which boosted his draft stock. Hecht’s tape is solid, he proves to be a solid mover with average power.
 
----
+He’s possesses good size for the position standing 6’4 and weighing 303lbs. What stands out with Hecht is his elite fundamentals. You see great hand placement, great footwork and great IQ. Hecht shows a knack for identifying multiple pressure looks and picking up different stunts and blitzes.
 
-## Round 3, Pick 66: Sam Hecht, C, Kansas State
+While Hecht might not have the most traits, I think you’re getting a starting player who will last at least two contracts in Tennessee. This would finish the construction of the 2026 offensive line and allow newly signed Cordell Volson and Austin Schlottman to be solid depth pieces and mentors to the new rookies.
 
-Double dipping on the offensive line is rarely a bad idea, especially in a weaker draft class.
+Round 4, Pick 101: Deontae Lawson, ILB, Alabama
 
-Finding two starters on the offensive line would be fantastic for the Titans. Sam Hecht has “NFL starter” written all over him, showing strong pass protection ability and consistency.
+With their fourth round selection, I have Tennessee selecting Deontae Lawson. The Alabama product shows his physicality throughout his tape as an off-ball linebacker. The strength with Lawson is his ability to read and react in zone coverage, he shows a nice ability of being able to keep the play in front of him.
 
----
+You do see some hesitation in his drops at times which can lead to missed tackles, but I believe that can be fixed with good coaching. With Robert Saleh being a linebacker guru I could see him help develop Lawson into a starting level two down linebacker.
 
-## Round 4, Pick 101: Deontae Lawson, ILB, Alabama
+The fit alongside Cedric Grey would be nice as they both offer separate skillsets. With an early fourth round pick, I find Lawson to be a decent value here. The opportunity for Lawson to develop under Robert Saleh is really a really intriguing concept.
 
-With their fourth-round selection, I have Tennessee selecting Deontae Lawson.
+Lawson could be a starter or high-level rotation player in a few seasons by my estimation. The position is a need as the Titans haven’t signed an off-ball linebacker in free agency. Further establishing the theme of reinforcing position groups with less depth.
 
-The Alabama product shows his physicality throughout his tape as an off-ball linebacker. His strength lies in his ability to read and react in zone coverage while keeping plays in front of him.
+Round 5, Pick 140: Kaytron Allen, RB, Penn State
 
----
+Operating under the assumption that Tony Pollard is back in 2026, Kaytron Allen would be a nice addition to the Titans running back room. Allen was first team all Big-10 in 2025 and showed improvement in multiple areas of his game.
 
-## Round 5, Pick 140: Kaytron Allen, RB, Penn State
+As a tailback, Allen is really solid between the tackles. I view him as a better fit in a gap or duo run scheme, as opposed to a heavy zone scheme. The Titans are in need of a more traditional second back, as Tyjae Spears doesn’t seem to be super effective between the tackles.
 
-Operating under the assumption that Tony Pollard is back in 2026, Kaytron Allen would be a nice addition to the Titans’ running back room.
+Allen provides solid contact balance to run through tacklers and for Tennessee that would be a more than welcome skillset in their backfield. With Tony Pollard probably entering his final season as a Titan, it would be ideal to establish a piece of the running back room heading into the future. If they can do that with a 5th round pick, that would be an ideal scenario.
 
-Allen was First-Team All-Big Ten in 2025 and showed improvement in multiple areas of his game. As a tailback, Allen is really solid between the tackles and brings physicality to the position.
+Round 5, Pick 142: Devon Marshall, CB, NC State
 
----
+I have the Titans selecting the nation’s leader in pass breakups here in round 5. The exciting number you see with Marshall is the 16 PBU’s in 2025, with 6 of them coming against Florida State. That lends into my favorite trait of Marshall’s which is his aggressiveness.
 
-## Round 5, Pick 142: Devon Marshall, CB, NC State
+Marshall always seems to get a hand in between the receiver and the football. If you look at who the Titans paid in the secondary this offseason, the front office is showing they clearly value aggressiveness in their defensive backs.
 
-I have the Titans selecting the nation’s leader in pass breakups here in Round 5.
+Marshall would be a fantastic value here in round 5 and could compete for reps at nickel with Marcus Harris in camp.
 
-Marshall recorded 16 PBUs in 2025, with six of them coming against Florida State. That speaks to both his production and ability to show up in big games.
+Round 6, Pick 183: Tyren Montgomery, WR, John Carroll
 
-His aggressiveness is one of my favorite traits, consistently competing at the catch point.
+Montgomery tore up the senior bowl, along with having 120 catches for 1500 yards and 15 touchdowns at John Carroll last year. This is a guy who is new to football as he’s a converted basketball player.
 
----
+There’s not much tape available on Montgomery but the way he dominated the Senior Bowl is going to get him drafted. Why not take the chance? The receiver room is weak and someone with an underdog mentality like Montgomery would definitely contribute on special teams.
 
-## Round 6, Pick 183: Tyren Montgomery, WR, John Carroll
+Maybe they find a diamond in the rough here in round 6, if not I still believe it’s worth the shot.
 
-Montgomery tore up the Senior Bowl and produced heavily at the college level, totaling 120 catches for 1,500 yards and 15 touchdowns last season.
+Round 6, Pick 193: Josh Moten, CB, Southern Miss
 
-He’s new to football as a converted basketball player, which makes his upside even more intriguing. There isn’t a ton of tape available, but the flashes are undeniable.
+Josh Moten is a high production defensive back with impressive ball skills. Why not double up on corner in the late rounds? Moten had 3 interceptions against Arkansas State in one of the more impressive DB performances in the 2025 season.
 
----
+Moten has posted back to back seasons with 5 interceptions. He totaled 60 tackles as well this season. He fits the mold of the DB the Titans seem to be looking for.
 
-## Round 6, Pick 193: Josh Moten, CB, Southern Miss
+You can never have too many ballhawks in your secondary and Moten is just that.
 
-Josh Moten is a high-production defensive back with impressive ball skills.
+Round 7, Pick 225: Vincent Anthony Jr., EDGE, Duke
 
-Why not double up at corner in the late rounds? Moten had three interceptions against Arkansas State in one of the more impressive DB performances of the 2025 season.
+Anthony possesses elite size for the EDGE position at 6’6 250. The first step he’s shown looks quick for a man that size. Anthony also has over 34 inch arms. Anthony had good sack production at Duke this season as well, tallying 7.5.
 
----
+Anthony has the potential to be a rotational rush end and contribute on this Robert Saleh defensive front. Overall, Anthony is a raw prospect, but in this situation he’ll have top of the line defensive coaching and development.
 
-## Round 7, Pick 225: Vincent Anthony Jr., EDGE, Duke
-
-Anthony possesses elite size for the EDGE position at 6’6”, 250 pounds.
-
-His first step is surprisingly quick for a player of his size, and he has over 34-inch arms. Anthony produced solid sack numbers at Duke, totaling 7.5 sacks this past season.
-
-He has the potential to develop into a rotational pass rusher at the next level.
+Interesting option for the Titans to cap of their 10 pick draft class.
