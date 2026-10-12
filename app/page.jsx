@@ -1,37 +1,112 @@
 import Link from "next/link";
-import { getAllPosts } from "../lib/posts";
+import BigBoardList from "../components/BigBoardList";
+import { getBigBoard } from "../lib/board";
+import { formatDate } from "../lib/format";
+import { getAllPosts, getPostsForSection } from "../lib/posts";
+import { SECTIONS, sectionForPost } from "../lib/site";
 
 export default function HomePage() {
   const posts = getAllPosts();
-  const latestPost = posts[0];
+  const latest = posts[0];
+  const board = getBigBoard().slice(0, 5);
+  const latestSection = latest ? sectionForPost(latest) : null;
 
   return (
-    <main style={{ maxWidth: 900, margin: "0 auto", padding: "40px 20px" }}>
-      <h1>Henry Eakes</h1>
-      <p>College & NFL Football</p>
+    <main className="page home">
+      {latest ? (
+        <section className="feature">
+          <div className="feature-main">
+            <p className="kicker">
+              Latest
+              {latest.category ? (
+                <>
+                  <span aria-hidden="true"> · </span>
+                  {latestSection ? (
+                    <Link href={latestSection.href}>{latest.category}</Link>
+                  ) : (
+                    latest.category
+                  )}
+                </>
+              ) : null}
+            </p>
+            <h1 className="feature-title">
+              <Link href={`/articles/${latest.slug}`}>{latest.title}</Link>
+            </h1>
+            {latest.excerpt ? <p className="deck">{latest.excerpt}</p> : null}
+            <p className="byline">
+              By <Link href="/about">{latest.author}</Link>
+              {latest.date ? (
+                <>
+                  <span aria-hidden="true"> · </span>
+                  <time dateTime={latest.date}>{formatDate(latest.date)}</time>
+                </>
+              ) : null}
+              <span aria-hidden="true"> · </span>
+              {latest.readingTime}
+            </p>
+            <Link className="button" href={`/articles/${latest.slug}`}>
+              Read the story
+            </Link>
+          </div>
 
-      <h2>Latest Article</h2>
-
-      {latestPost ? (
-        <article style={{ marginBottom: 40 }}>
-          <h3>
-            <Link href={`/articles/${latestPost.slug}`}>{latestPost.title}</Link>
-          </h3>
-          <p>{latestPost.date}</p>
-          <p>{latestPost.excerpt}</p>
-        </article>
+          <aside className="board-card" aria-label="Big Board">
+            <p className="kicker">Big Board</p>
+            <h2>NFL Draft</h2>
+            {board.length > 0 ? (
+              <BigBoardList rows={board} compact />
+            ) : (
+              <p className="aside-note">Rankings will be posted as the board is updated.</p>
+            )}
+            <Link className="text-link" href="/draft/big-board">
+              Full board
+            </Link>
+          </aside>
+        </section>
       ) : (
-        <p>No articles yet.</p>
+        <header className="page-header">
+          <p className="kicker">Henry Eakes</p>
+          <h1>College football and NFL writing</h1>
+          <p className="lede">Stories will be published here.</p>
+        </header>
       )}
 
-      <h2>All Articles</h2>
-      <ul>
-        {posts.map((post) => (
-          <li key={post.slug} style={{ marginBottom: 12 }}>
-            <Link href={`/articles/${post.slug}`}>{post.title}</Link>
-          </li>
-        ))}
-      </ul>
+      {posts.length > 0 ? (
+        <section className="block" aria-labelledby="stories-heading">
+          <div className="block-heading">
+            <h2 id="stories-heading">Stories</h2>
+            <Link href="/articles">All articles</Link>
+          </div>
+          <ul className="story-index">
+            {posts.map((post) => (
+              <li key={post.slug}>
+                <Link href={`/articles/${post.slug}`}>
+                  <span className="kicker">{post.category}</span>
+                  <span className="story-index-title">{post.title}</span>
+                  <time dateTime={post.date}>{formatDate(post.date)}</time>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
+
+      <section className="block" aria-labelledby="sections-heading">
+        <div className="block-heading">
+          <h2 id="sections-heading">Sections</h2>
+          <Link href="/articles">All articles</Link>
+        </div>
+        <div className="section-grid">
+          {SECTIONS.map((section) => {
+            const count = getPostsForSection(section.slug).length;
+            return (
+              <Link key={section.slug} href={section.href} className="section-tile">
+                <span className="section-tile-title">{section.label}</span>
+                <span className="meta">{count === 0 ? "Coming soon" : `${count} ${count === 1 ? "story" : "stories"}`}</span>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
     </main>
   );
 }
