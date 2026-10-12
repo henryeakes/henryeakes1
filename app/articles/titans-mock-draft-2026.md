@@ -3,6 +3,9 @@ title: "Titans 7-Round Mock Draft After Trade Down With Rams"
 date: "2026-03-19"
 excerpt: "If the Rams move up for Jeremiyah Love, the Titans could reshape their roster with a smart trade down."
 coverImage: "/titans logo.png"
+category: "Mock Draft"
+tags:
+  - draft
 ---
 
 In recent days, Daniel Jeremiah of NFL Network suggested the Los Angeles Rams may try and make another aggressive move up in the 2026 NFL Draft to select Jeremiyah Love, the uber-talented tailback from Notre Dame. Love is a name that has been linked to the Tennessee Titans ever since Love posted a stellar 4.36 40 yard dash and weighed in at a surprising 212 pounds at the NFL Combine.

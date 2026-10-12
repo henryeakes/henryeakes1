@@ -1,22 +1,39 @@
-export default function TagPage({ params }) {
-  const tag = String(params.tag || "").toLowerCase();
+import SectionView from "../../../components/SectionView";
+import { getPostsForSection } from "../../../lib/posts";
+import { findSection, formatTag, pageMeta } from "../../../lib/site";
 
-  const title =
-    tag === "nfl" ? "NFL" :
-    tag === "college" ? "College Football" :
-    tag === "draft" ? "NFL Draft" :
-    tag;
+export function generateStaticParams() {
+  return ["draft", "nfl", "college", "college-football", "franchise", "franchise-rebuilds", "mock-draft"].map(
+    (tag) => ({ tag })
+  );
+}
+
+export async function generateMetadata({ params }) {
+  const { tag } = await params;
+  const section = findSection(tag);
+  const title = formatTag(tag);
+  const description = section?.description || `Stories filed under ${title}.`;
+
+  return pageMeta({
+    title,
+    description,
+    path: section?.href || `/tag/${tag}`,
+  });
+}
+
+export default async function TagPage({ params }) {
+  const { tag } = await params;
+  const section = findSection(tag);
+  const title = formatTag(tag);
+  const posts = getPostsForSection(tag);
 
   return (
-    <main>
-      <h2 style={{ margin: "0 0 12px" }}>{title}</h2>
-      <p style={{ color: "#6b7280", marginTop: 0 }}>
-        This page is live. Next we’ll show articles tagged: <strong>{tag}</strong>.
-      </p>
-
-      <p>
-        Go to <a href="/articles">Articles</a> to read posts.
-      </p>
-    </main>
+    <SectionView
+      kicker="Section"
+      title={title}
+      description={section?.description || `Stories filed under ${title}.`}
+      posts={posts}
+      empty={section?.empty || "No stories filed under this topic yet."}
+    />
   );
 }

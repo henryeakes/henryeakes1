@@ -1,10 +1,23 @@
-export default function Articles() {
+import SectionView from "../../components/SectionView";
+import { getAllPosts } from "../../lib/posts";
+import { pageMeta } from "../../lib/site";
+
+export const metadata = pageMeta({
+  title: "Articles",
+  description: "All stories published by Henry Eakes.",
+  path: "/articles",
+});
+
+export default function ArticlesPage() {
+  const posts = getAllPosts();
+
   return (
-    <main>
-      <h2 style={{ margin: "0 0 12px" }}>Articles</h2>
-      <p style={{ color: "#6b7280", marginTop: 0 }}>
-        Articles page is live. Next we’ll list your posts here automatically.
-      </p>
-    </main>
+    <SectionView
+      kicker="Archive"
+      title="Articles"
+      description="All stories published on the site."
+      posts={posts}
+      empty="No stories published yet."
+    />
   );
 }
