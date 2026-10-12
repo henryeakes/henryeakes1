@@ -70,7 +70,7 @@ export default function Header() {
                 key={item.href}
                 href={item.href}
                 className="nav-link"
-                aria-current={isCurrent(item.href, pathname, true) ? "page" : undefined}
+                aria-current={isCurrent(item.href, pathname, false) ? "page" : undefined}
               >
                 {item.label}
               </Link>
@@ -118,7 +118,7 @@ export default function Header() {
               <Link
                 key={item.href}
                 href={item.href}
-                aria-current={isCurrent(item.href, pathname, true) ? "page" : undefined}
+                aria-current={isCurrent(item.href, pathname, false) ? "page" : undefined}
               >
                 {item.label}
               </Link>

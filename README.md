@@ -60,6 +60,29 @@ Edit `data/big-board.js`. A row appears on `/draft/big-board` only when `player`
 
 `rank` is optional. If you omit it, visible rows are numbered in order. The homepage sidebar shows the first five published rows.
 
+## Add an episode
+
+Episodes are Markdown files in `content/episodes/`. The filename is the URL slug. `content/episodes/week-one.md` is published at `/listen/week-one` and included in the podcast feed at `/listen/feed.xml`.
+
+```md
+---
+title: "Episode title"
+date: "2026-03-19"
+description: "One or two sentences for the episode card and the podcast feed."
+audio: "/audio/week-one.mp3"
+tags:
+  - nfl
+---
+
+Show notes, in Markdown. Headings, lists, and links work the same way they do in articles.
+```
+
+- `date` is `YYYY-MM-DD`. The site prints it as March 19, 2026.
+- `audio` is a file in `public/audio/` (for example `/audio/week-one.mp3`) or a full `https://` URL.
+- `tags` are optional.
+- `/listen` lists every episode. With no files in `content/episodes/`, the page says episodes are coming soon.
+- The RSS feed updates on the next build. It does not include an episode until the Markdown file exists.
+
 ## About photo
 
 Put a portrait at one of these paths and the About page will use it:
